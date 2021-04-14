@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "server": "json-server --watch db.json -p 6001"
+    "server": "json-server --watch db.json -p 8004"
   },
   "eslintConfig": {
     "extends": [
